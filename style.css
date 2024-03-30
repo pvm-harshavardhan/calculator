@@ -1,0 +1,110 @@
+.container {
+    width: 248px;
+    border: 2px solid black;
+    height: 240px;
+    margin: auto;
+    margin-top: 50px;
+    background: linear-gradient(-50deg, red, green);
+
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #F1C9EC, #AB84CB);
+
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
+}
+
+.row-two {
+    width: 45.5%;
+    margin-left: 1.8px;
+}
+
+.row-one {
+    width: 23%;
+}
+
+.side-one {
+    width: 31%;
+}
+
+.second,
+.third {
+    margin-left: 1.5px;
+}
+
+.fifth,
+.fourth {
+    display: inline-block;
+    margin-left: 1.5px;
+    width: 70%;
+}
+
+table {
+    width: 70%;
+}
+
+.key {
+    width: 55px;
+}
+
+td {
+    width: 2px;
+    margin: 0;
+    padding: 0;
+}
+
+.col-two {
+    width: 22.5%;
+    height: 21%;
+    margin-left: 180px;
+    margin-top: -100rem;
+}
+
+.top {
+    margin-top: -40px;
+    margin-left: 5px;
+    height: 320px;
+}
+
+input {
+    margin: auto;
+    margin-left: 10px;
+    width: 225px;
+    text-align: right;
+    font-size: 1.3rem;
+}
+
+.row {
+    margin-left: 8px;
+}
+
+.mod {
+    width: 55px;
+    margin-left: 4px;
+}
+
+.ele {
+    margin-top: 9px;
+}
+
+.but {
+    margin-top: 9px;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.pressed {
+    background-color: black;
+    color: white;
+}
+
+* {
+    border-radius: 8px;
+    margin-top: 3px;
+    height: 2rem;
+    /* font-weight: bold; */
+    font-weight: 550;
+    font-size: 1.03rem;
+}
